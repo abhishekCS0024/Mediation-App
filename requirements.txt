@@ -1,0 +1,12 @@
+streamlit
+python-dotenv
+faiss-cpu
+sentence-transformers
+langchain
+langchain-community
+langchain-core
+langchain-groq
+langchain-huggingface
+torch
+numpy
+watchdog  # Optional but recommended for Streamlit
